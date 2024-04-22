@@ -1,5 +1,4 @@
-## Opa me chamo Davi Eduardo, mais conhecidos nos servidores como "Lynxs73619", Desenvolvedor .NET!
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0085ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Davi+Eduardo;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
