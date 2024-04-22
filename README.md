@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0085ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Davi+Eduardo;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8e7cc3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Davi+Eduardo;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
  &nbsp;
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=davieduard0x01&theme=radical&mode=weekly" />
