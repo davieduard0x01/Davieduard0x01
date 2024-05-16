@@ -58,5 +58,5 @@
 </div>
 &nbsp;
 &nbsp;
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8e7cc3&size=35&center=true&vCenter=true&width=1000&lines=Check+back+often;Follow+me!+:%29)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davieduard0x01&label=Profile%20views&color=0e75b6&style=flat" alt="davieduard0x01" /> </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
