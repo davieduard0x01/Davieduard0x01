@@ -21,7 +21,7 @@ using System;
 
 class Lynxs73619
 {
-    public string Name { get; private set;}
+    public string Name { get; private set; }
     public string Certifications { get; private set; }
     public string Acting { get; private set; }
     public string Repositories { get; private set; }
