@@ -14,7 +14,7 @@
 
 <p align="center">
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gruppo&size=40&duration=5000&pause=9999&color=567ebb&center=true&vCenter=true&width=435&lines=LYNXS73619" alt="Typing SVG" /></a><br> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gruppo&size=40&duration=5000&pause=9999&color=567ebb&center=true&vCenter=true&width=435&lines=L1NX'S" alt="Typing SVG" /></a><br> 
 
 ````
 using System;
