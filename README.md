@@ -14,7 +14,7 @@
 
 <p align="center">
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gruppo&size=40&duration=5000&pause=9999&color=567ebb&center=true&vCenter=true&width=435&lines=L1NX'S" alt="Typing SVG" /></a><br> 
+
 
 ````
 using System;
@@ -46,35 +46,9 @@ public Lynxs73619()
         Console.WriteLine($"Note: {lynxs73619.Note}");
     }
 ````
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gruppo&size=40&duration=5000&pause=99&color=567ebb&center=true&vCenter=true&width=1000&lines=MY CTF TEAM;Η4ᄃK*M1ПD5;" alt="Typing SVG" /></a><br>
-
-
-### Main skills:
-![C#](https://img.shields.io/badge/Csharp-14354C?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SQL Server](https://img.shields.io/badge/sqlserver-inchack?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=%23CC2927&color=%23CC2927)
 
 
 
-
-### Studying in this moment:
-![C](https://img.shields.io/badge/c-100121?style=for-the-badge&logo=c&logoColor=white&label=Language&labelColor=blue&color=blue)&nbsp;
-![C++](https://img.shields.io/badge/c-100121?style=for-the-badge&logo=c%2B%2B&logoColor=white&label=%2B%2B%20Language&labelColor=blue&color=blue)&nbsp;
-![Arduino](https://img.shields.io/badge/arduino-1121212?style=for-the-badge&logo=arduino&logoColor=white&labelColor=%2300878F&color=%2300878F)&nbsp;
-
-
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![Kali](https://img.shields.io/badge/kali-inchack?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=%23557C94&color=%23557C94)&nbsp;
 
 
 
