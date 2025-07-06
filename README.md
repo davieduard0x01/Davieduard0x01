@@ -12,7 +12,7 @@
 ````
 using System;
 
-class Lynxs73619
+class L'1nxs
 {
     public string Name { get; private set; }
     public string Certifications { get; private set; }
