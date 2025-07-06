@@ -20,7 +20,7 @@ class L'1nxs
     public string Repositories { get; private set; }
     public string Note { get; private set; }
 
-public Lynxs73619()
+public L'1nxs()
     {
         Name = "Davi Eduardo";
         Certifications = "in process";
