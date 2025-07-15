@@ -9,42 +9,5 @@
 
 
 
-````
-using System;
-
-class L'1nxs
-{
-    public string Name { get; private set; }
-    public string Certifications { get; private set; }
-    public string Acting { get; private set; }
-    public string Repositories { get; private set; }
-    public string Note { get; private set; }
-
-public L'1nxs()
-    {
-        Name = "Davi Eduardo";
-        Certifications = "in process";
-        Acting = "in process";
-        Repositories = "Some projects and studies"
-        Note = "Thanks for visiting, take a look at some projects";
-    }
-
-    static void Main(string[] args)
-    {
-        Lynxs73619 lynxs73619 = new Lynxs73619();
-        Console.WriteLine($"Name: {lynxs73619.Name}");
-        Console.WriteLine($"Certifications: {lynxs73619.Certifications}");
-        Console.WriteLine($"Acting: {lynxs73619.Acting}");
-        Console.WriteLine($"Repositories: {lynxs73619.Repositories}");
-        Console.WriteLine($"Note: {lynxs73619.Note}");
-    }
-````
-
-
-
-
-
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=567ebb&height=120&section=footer"/>
