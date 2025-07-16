@@ -13,39 +13,9 @@
 </div>
 
 <p align="center">
- 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gruppo&size=40&duration=5000&pause=9999&color=567ebb&center=true&vCenter=true&width=435&lines=LYNXS73619" alt="Typing SVG" /></a><br> 
 
-````
-using System;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0547ac&size=35&center=true&vCenter=true&width=1000&lines=L¹nx!;L¹nx;L¹nx+:%29)](https://git.io/typing-svg)
 
-class Lynxs73619
-{
-    public string Name { get; private set; }
-    public string Certifications { get; private set; }
-    public string Acting { get; private set; }
-    public string Repositories { get; private set; }
-    public string Note { get; private set; }
-
-public Lynxs73619()
-    {
-        Name = "Davi Eduardo";
-        Certifications = "in process";
-        Acting = "in process";
-        Repositories = "Some projects and studies"
-        Note = "Thanks for visiting, take a look at some projects";
-    }
-
-    static void Main(string[] args)
-    {
-        Lynxs73619 lynxs73619 = new Lynxs73619();
-        Console.WriteLine($"Name: {lynxs73619.Name}");
-        Console.WriteLine($"Certifications: {lynxs73619.Certifications}");
-        Console.WriteLine($"Acting: {lynxs73619.Acting}");
-        Console.WriteLine($"Repositories: {lynxs73619.Repositories}");
-        Console.WriteLine($"Note: {lynxs73619.Note}");
-    }
-````
 
 
 ### Linguagens de Programação:
